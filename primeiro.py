@@ -5,8 +5,8 @@ def Subtrair(val1, val2):
 	return val1 - val2	
 
 
-a = float(input('Digite o primeiro número.: '))
-b = float(input('Digite o segundo número.: '))
+a = float(input('Digite o primeiro número: '))
+b = float(input('Digite o segundo número: '))
 
 print('-' * 20)
 
